@@ -15,6 +15,8 @@ When a customer is ready to check out, QRShop will automatically calculate the t
 With QRShop, small business owners can streamline their operations, save time, and boost sales - all with a simple and easy-to-use app. So whether you're a new shop owner or an established business, QRShop is the perfect solution for managing your shop with ease.
   - [Github Repository](https://github.com/FKdevelopers254/QRSHOP)
   - [Live Demo](https://FKdvelopers254.github.io/QRSHOP)
+
+###Travel App
 - Flutter App 2: Welcome to our all-in-one travel app! With our platform, users can easily plan and book their dream vacations, all while earning rewards and exploring the great outdoors.
 
 Our app offers a seamless user experience, allowing users to quickly and easily create an account, login, and start browsing our wide selection of hotels, safari tours, and rental cars. We also offer a wishlist system, so users can save their favorite destinations and come back to them later.
