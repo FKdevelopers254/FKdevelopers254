@@ -4,6 +4,8 @@ I'm a passionate Flutter developer with experience building cross-platform mobil
 ## About Me
 I am passionate about creating high-quality mobile applications that deliver exceptional user experiences. With over 2 years of experience in the field, I have developed a deep understanding of the Flutter framework and its capabilities. Developing high-quality mobile applications using the Flutter framework Building custom UI designs that are both functional and visually appealing Integrating APIs and backend services to create seamless user experiences Creating cross-platform apps for both Android and iOS platforms Debugging and troubleshooting issues to ensure smooth performance
 ## Projects
+
+## QRShop
 - Flutter App 1: Introducing QRShop, the ultimate shopping app for small business owners. With our platform, shop owners can easily manage their inventory, process transactions, and keep track of sales - all with just a smartphone!
 
 QRShop works by scanning QR codes that are placed on each product in the shop. When a customer scans a product's QR code, it's automatically added to their cart with the correct price. This eliminates the need for a traditional barcode scanner and makes the checkout process faster and more efficient.
@@ -32,6 +34,8 @@ So whether you're looking to book your dream vacation or simply explore the worl
   - [Github Repository](https://github.com/FKdevelopers254/TravelApp)
   - [Live Demo](https://FKdevelopers254.github.io/TravelApp)
 
+## Quiz App
+
 -Flutter App 3:Introducing our new quiz app - the perfect tool for schools, companies, and anyone looking to test their knowledge! With our platform, users can easily take quizzes, track their scores, and compete with friends and colleagues.
 
 Our app features a wide variety of questions on different topics, each with a timer to add an extra level of challenge. Users can select their answers before the timer runs out, and the app will show them if they were correct or not. If they answered incorrectly, the correct answer will be displayed, allowing users to learn as they go.
@@ -45,6 +49,7 @@ So whether you're looking to learn something new, test your knowledge, or compet
   - [Github Repository](https://github.com/FKdevelopers254/QUIZMOBILEAPP)
   - [Live Demo](https://FKdevelopers254.github.io/QUIZMOBILEAPP)
 
+## Food Ordering/Delivery App
 
 -Flutter App 4:Welcome to Munchies, the ultimate food ordering app! With our platform, users can easily order delicious meals from their favorite restaurants and have them delivered straight to their door.
 
@@ -58,6 +63,8 @@ So whether you're a hungry user or a busy restaurant owner, Munchies has everyth
 
   - [Github Repository](https://github.com/FKdevelopers254/Munchies)
   - [Live Demo](https://FKdevelopers254.github.io/QUIZMOBILEAPP)
+
+## Language Learning/Communication App
 
 -Flutter App 5:Introducing our new language app - the perfect tool for anyone looking to learn a new language or communicate with people who speak different languages! Our app allows users to easily translate from English to any other language, and includes a speech feature to help with pronunciation.
 
