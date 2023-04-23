@@ -16,7 +16,7 @@ With QRShop, small business owners can streamline their operations, save time, a
   - [Github Repository](https://github.com/FKdevelopers254/QRSHOP)
   - [Live Demo](https://FKdvelopers254.github.io/QRSHOP)
 
-###Travel App
+##Travel App
 - Flutter App 2: Welcome to our all-in-one travel app! With our platform, users can easily plan and book their dream vacations, all while earning rewards and exploring the great outdoors.
 
 Our app offers a seamless user experience, allowing users to quickly and easily create an account, login, and start browsing our wide selection of hotels, safari tours, and rental cars. We also offer a wishlist system, so users can save their favorite destinations and come back to them later.
