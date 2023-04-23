@@ -95,6 +95,18 @@ So whether you're a patient looking for high-quality medical care, or a doctor l
   - [Github Repository](https://github.com/FKdevelopers254/Munchies)
   - [Live Demo](https://FKdevelopers254.github.io/QUIZMOBILEAPP)
 
+## Live Request App
+-Flutter App 7:Introducing our live request app - the perfect tool for engaging audiences and connecting hosts with their listeners. Our app allows users to join events and request songs, while giving hosts the ability to choose which songs to play.
+
+With our platform, users can quickly and easily join events and request their favorite songs. This helps to create a dynamic, engaging atmosphere, and ensures that everyone can enjoy the music they love.
+
+At the same time, hosts can use our app to manage requests, and choose which songs to play. This gives them greater control over the music selection, while still allowing audiences to have a say in what they hear.
+
+Overall, our live request app is the perfect tool for anyone looking to create a lively, engaging atmosphere at events. Whether you're a DJ, a radio host, or simply someone looking to connect with your audience, our app has everything you need to get started. So why wait? Download our app today and start making music requests like never before!
+
+  - [Github Repository](https://github.com/FKdevelopers254/Munchies)
+  - [Live Demo](https://FKdevelopers254.github.io/QUIZMOBILEAPP)
+
 
 ## Skills
 - Flutter,Dart,Java,RESTful APIs,Git,Agile/Scrum
