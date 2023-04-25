@@ -16,7 +16,7 @@ When a customer is ready to check out, QRShop will automatically calculate the t
 
 With QRShop, small business owners can streamline their operations, save time, and boost sales - all with a simple and easy-to-use app. So whether you're a new shop owner or an established business, QRShop is the perfect solution for managing your shop with ease.
   - [Github Repository](https://github.com/FKdevelopers254/QRSHOP)
-  - [Live Demo](https://FKdvelopers254.github.io/QRSHOP)
+ 
 
 ## Travel App
 - Flutter App 2: Welcome to our all-in-one travel app! With our platform, users can easily plan and book their dream vacations, all while earning rewards and exploring the great outdoors.
@@ -32,7 +32,7 @@ But that's not all - we also offer a way for users to earn cash by listing their
 So whether you're looking to book your dream vacation or simply explore the world around you, our travel app has everything you need to get started.
 
   - [Github Repository](https://github.com/FKdevelopers254/TravelApp)
-  - [Live Demo](https://FKdevelopers254.github.io/TravelApp)
+ 
 
 ## Quiz App
 
@@ -46,8 +46,8 @@ Our quiz app is perfect for schools and teachers who want to create fun and enga
 
 So whether you're looking to learn something new, test your knowledge, or compete with others, our quiz app has everything you need to get started.
 
-  - [Github Repository](https://github.com/FKdevelopers254/QUIZMOBILEAPP)
-  - [Live Demo](https://FKdevelopers254.github.io/QUIZMOBILEAPP)
+  - [Github Repository](https://github.com/FKdevelopers254/QUIZ-APP)
+ 
 
 ## Food Ordering/Delivery App
 
@@ -62,7 +62,7 @@ Munchies is perfect for busy individuals who want to order food on-the-go, witho
 So whether you're a hungry user or a busy restaurant owner, Munchies has everything you need to get started. With our easy-to-use interface, secure authentication system, and real-time tracking, ordering food has never been easier.
 
   - [Github Repository](https://github.com/FKdevelopers254/Munchies)
-  - [Live Demo](https://FKdevelopers254.github.io/QUIZMOBILEAPP)
+
 
 ## Language Learning/Communication App
 
@@ -77,7 +77,7 @@ Our app is perfect for travelers who want to communicate with locals in differen
 So whether you're looking to expand your language skills, communicate with people from different cultures, or simply learn something new, our language app has everything you need to get started.
 
   - [Github Repository](https://github.com/FKdevelopers254/Munchies)
-  - [Live Demo](https://FKdevelopers254.github.io/QUIZMOBILEAPP)
+  
   
 ## Medical Care App
 -Flutter App 6:Welcome to our medical app - the perfect tool for connecting patients and doctors, and ensuring that everyone has access to high-quality medical care. Our app allows patients to input their symptoms, connect with doctors, and order medical drugs that can be delivered straight to their door.
@@ -92,8 +92,8 @@ Finally, our app includes a booking system, allowing patients to schedule appoin
 
 So whether you're a patient looking for high-quality medical care, or a doctor looking to connect with patients in new ways, our medical app has everything you need to get started. With our easy-to-use interface, real-time consultations, and convenient features, you can get the care you need - whenever and wherever you need it.
 
-  - [Github Repository](https://github.com/FKdevelopers254/Munchies)
-  - [Live Demo](https://FKdevelopers254.github.io/QUIZMOBILEAPP)
+  - [Github Repository](https://github.com/FKdevelopers254/Health-Care-Mobile-App)
+ 
 
 ## Live Request App
 -Flutter App 7:Introducing our live request app - the perfect tool for engaging audiences and connecting hosts with their listeners. Our app allows users to join events and request songs, while giving hosts the ability to choose which songs to play.
@@ -118,3 +118,4 @@ Overall, our live request app is the perfect tool for anyone looking to create a
 ## Contact Information
 - Email: fkdevelopers254@gmail.com
 - LinkedIn: https://www.linkedin.com/in/nash-tunic-9a6118244/
+-Website: https://secureworldhost.xyz
