@@ -7,6 +7,15 @@
 ![HTML](https://img.shields.io/badge/-HTML-E34F26)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1)
+![Android](https://img.shields.io/badge/-Android-3DDC84)
+![iOS](https://img.shields.io/badge/-iOS-000000)
+![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-557C94)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420)
+![GitLab](https://img.shields.io/badge/-GitLab-FCA121)
+![CI/CD](https://img.shields.io/badge/-CI%2FCD-47A248)
+![Scrum](https://img.shields.io/badge/-Scrum-5C9FED)
+![REST API](https://img.shields.io/badge/-REST%20API-009688)
+
 
 
 
