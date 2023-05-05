@@ -1,4 +1,4 @@
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=FKDevelopers254)
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FFKdevelopers254%2F&label=VISITORS&countColor=%23263759)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FFKdevelopers254%2F)
 
 # Profile
 I'm a passionate Flutter developer with experience building cross-platform mobile applications for various industries.
