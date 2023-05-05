@@ -1,6 +1,13 @@
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FFKdevelopers254%2F&label=VISITORS&countColor=%23263759)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FFKdevelopers254%2F)
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+![Flutter](https://img.shields.io/badge/-Flutter-blue)
+![PHP](https://img.shields.io/badge/-PHP-8892BF)
+![Python](https://img.shields.io/badge/-Python-3776AB)
+![HTML](https://img.shields.io/badge/-HTML-E34F26)
+![CSS](https://img.shields.io/badge/-CSS-1572B6)
+![SQL](https://img.shields.io/badge/-SQL-4479A1)
+
 
 
 # Profile
