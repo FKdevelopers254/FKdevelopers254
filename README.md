@@ -1,5 +1,8 @@
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FFKdevelopers254%2F&label=VISITORS&countColor=%23263759)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FFKdevelopers254%2F)
 
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+
+
 # Profile
 I'm a passionate Flutter developer with experience building cross-platform mobile applications for various industries.
 
