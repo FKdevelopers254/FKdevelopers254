@@ -97,7 +97,7 @@ Our app is perfect for travelers who want to communicate with locals in differen
 
 So whether you're looking to expand your language skills, communicate with people from different cultures, or simply learn something new, our language app has everything you need to get started.
 
-  - [Github Repository](https://github.com/FKdevelopers254/Munchies)
+  - [Github Repository](https://github.com/FKdevelopers254/LanguageCommunicationApp)
   
   
 ## Medical Care App
@@ -137,5 +137,5 @@ Overall, our live request app is the perfect tool for anyone looking to create a
 
 ## Contact Information
 - Email: fkdevelopers254@gmail.com
-- LinkedIn: https://www.linkedin.com/in/nash-tunic-9a6118244/
--Website: https://secureworldhost.xyz
+- [LinkedIn:] (https://www.linkedin.com/in/francisnzoka/)
+- [Website:] (https://secureworldhost.xyz)
