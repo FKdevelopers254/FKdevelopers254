@@ -1,4 +1,4 @@
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FFKdevelopers254%2F&label=VISITORS&countColor=%23263759)] 
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FFKdevelopers254%2F&label=VISITORS&countColor=%23263759)
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
 ![Flutter](https://img.shields.io/badge/-Flutter-blue)
