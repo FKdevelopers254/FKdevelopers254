@@ -125,8 +125,7 @@ At the same time, hosts can use our app to manage requests, and choose which son
 
 Overall, our live request app is the perfect tool for anyone looking to create a lively, engaging atmosphere at events. Whether you're a DJ, a radio host, or simply someone looking to connect with your audience, our app has everything you need to get started. So why wait? Download our app today and start making music requests like never before!
 
-  - [Github Repository](https://github.com/FKdevelopers254/Munchies)
-  - [Live Demo](https://FKdevelopers254.github.io/QUIZMOBILEAPP)
+  - [Github Repository](https://github.com/FKdevelopers254/LiveSongRequest)
 
 
 ## Skills
