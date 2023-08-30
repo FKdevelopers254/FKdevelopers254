@@ -18,12 +18,12 @@
 
 
 ## About Me
-I am passionate about creating high-quality mobile applications that deliver exceptional user experiences. With over 2 years of experience in the field, I have developed a deep understanding of the Flutter framework and its capabilities. Developing high-quality mobile applications using the Flutter framework Building custom UI designs that are both functional and visually appealing Integrating APIs and backend services to create seamless user experiences Creating cross-platform apps for both Android and iOS platforms Debugging and troubleshooting issues to ensure smooth performance
+I am passionate about creating high-quality mobile applications that deliver exceptional user experiences. With over 5 years of experience in the field, I have developed a deep understanding of the Flutter framework and its capabilities. Developing high-quality mobile applications using the Flutter framework Building custom UI designs that are both functional and visually appealing Integrating APIs and backend services to create seamless user experiences Creating cross-platform apps for both Android and iOS platforms Debugging and troubleshooting issues to ensure smooth performance
 ## Projects[MUSIC,BOOKING,TRAVEL,STORE MANAGEMENT,HEALTH,QUIZ APPS]
 
 
 ## QRShop
-- Flutter App 1: Introducing QRShop, the ultimate shopping app for small business owners. With our platform, shop owners can easily manage their inventory, process transactions, and keep track of sales - all with just a smartphone!
+Introducing QRShop, the ultimate shopping app for small business owners. With our platform, shop owners can easily manage their inventory, process transactions, and keep track of sales - all with just a smartphone!
 
 QRShop works by scanning QR codes that are placed on each product in the shop. When a customer scans a product's QR code, it's automatically added to their cart with the correct price. This eliminates the need for a traditional barcode scanner and makes the checkout process faster and more efficient.
 
@@ -35,8 +35,8 @@ With QRShop, small business owners can streamline their operations, save time, a
   - [Github Repository](https://github.com/FKdevelopers254/QRSHOP)
  
 
-## Travel App
-- Flutter App 2: Welcome to our all-in-one travel app! With our platform, users can easily plan and book their dream vacations, all while earning rewards and exploring the great outdoors.
+## Smart Travel App
+Welcome to our all-in-one travel app! With our platform, users can easily plan and book their dream vacations, all while earning rewards and exploring the great outdoors.
 
 Our app offers a seamless user experience, allowing users to quickly and easily create an account, login, and start browsing our wide selection of hotels, safari tours, and rental cars. We also offer a wishlist system, so users can save their favorite destinations and come back to them later.
 
@@ -51,9 +51,9 @@ So whether you're looking to book your dream vacation or simply explore the worl
   - [Github Repository](https://github.com/FKdevelopers254/TravelApp)
  
 
-## Quiz App
+## Smart Teacher Quiz App
 
--Flutter App 3:Introducing our new quiz app - the perfect tool for schools, companies, and anyone looking to test their knowledge! With our platform, users can easily take quizzes, track their scores, and compete with friends and colleagues.
+Introducing our new quiz app - the perfect tool for schools, companies, and anyone looking to test their knowledge! With our platform, users can easily take quizzes, track their scores, and compete with friends and colleagues.
 
 Our app features a wide variety of questions on different topics, each with a timer to add an extra level of challenge. Users can select their answers before the timer runs out, and the app will show them if they were correct or not. If they answered incorrectly, the correct answer will be displayed, allowing users to learn as they go.
 
@@ -68,7 +68,7 @@ So whether you're looking to learn something new, test your knowledge, or compet
 
 ## Food Ordering/Delivery App
 
--Flutter App 4:Welcome to Munchies, the ultimate food ordering app! With our platform, users can easily order delicious meals from their favorite restaurants and have them delivered straight to their door.
+Welcome to Munchies, the ultimate food ordering app! With our platform, users can easily order delicious meals from their favorite restaurants and have them delivered straight to their door.
 
 Our app features a secure authentication system, allowing both users and admins to log in and access their accounts. Users can browse menus, select their desired items, and specify their delivery location. Once the order is placed, users can track their delivery in real-time and receive notifications when their food is on the way.
 
@@ -83,7 +83,7 @@ So whether you're a hungry user or a busy restaurant owner, Munchies has everyth
 
 ## Language Learning/Communication App
 
--Flutter App 5:Introducing our new language app - the perfect tool for anyone looking to learn a new language or communicate with people who speak different languages! Our app allows users to easily translate from English to any other language, and includes a speech feature to help with pronunciation.
+Introducing our new language app - the perfect tool for anyone looking to learn a new language or communicate with people who speak different languages! Our app allows users to easily translate from English to any other language, and includes a speech feature to help with pronunciation.
 
 With our platform, users can enter any English word or phrase and receive an accurate translation in their desired language. Our app includes a wide variety of languages, from Spanish and French to Chinese and Arabic, so users can communicate with people from all over the world.
 
@@ -96,8 +96,8 @@ So whether you're looking to expand your language skills, communicate with peopl
   - [Github Repository](https://github.com/FKdevelopers254/LanguageCommunicationApp)
   
   
-## Medical Care App
--Flutter App 6:Welcome to our medical app - the perfect tool for connecting patients and doctors, and ensuring that everyone has access to high-quality medical care. Our app allows patients to input their symptoms, connect with doctors, and order medical drugs that can be delivered straight to their door.
+## Assistant Doctor Medical Care App
+Welcome to our medical app - the perfect tool for connecting patients and doctors, and ensuring that everyone has access to high-quality medical care. Our app allows patients to input their symptoms, connect with doctors, and order medical drugs that can be delivered straight to their door.
 
 With our platform, patients can quickly and easily input their symptoms and receive feedback from doctors in real-time. This is especially useful in emergency situations, where patients may not be able to visit a doctor in person. By using our app, patients can get the care they need from the comfort of their own home.
 
@@ -113,7 +113,7 @@ So whether you're a patient looking for high-quality medical care, or a doctor l
  
 
 ## Live Request App
--Flutter App 7:Introducing our live request app - the perfect tool for engaging audiences and connecting hosts with their listeners. Our app allows users to join events and request songs, while giving hosts the ability to choose which songs to play.
+Introducing our live request app - the perfect tool for engaging audiences and connecting hosts with their listeners. Our app allows users to join events and request songs, while giving hosts the ability to choose which songs to play.
 
 With our platform, users can quickly and easily join events and request their favorite songs. This helps to create a dynamic, engaging atmosphere, and ensures that everyone can enjoy the music they love.
 
