@@ -34,6 +34,8 @@ When a customer is ready to check out, QRShop will automatically calculate the t
 
 With QRShop, small business owners can streamline their operations, save time, and boost sales - all with a simple and easy-to-use app. So whether you're a new shop owner or an established business, QRShop is the perfect solution for managing your shop with ease.
   - [Github Repository](https://github.com/FKdevelopers254/QRSHOP)
+ <div class="protoio-embed-prototype" data-code="O3TA2E" data-show-sidebuttons="dark" style="width: 100%; height: 800px;"></div>
+<script async src="https://static.proto.io/api/widget-embed.js"></script>
  
 
 ## Smart Travel App
