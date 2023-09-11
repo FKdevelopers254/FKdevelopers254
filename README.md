@@ -22,6 +22,12 @@
 I am passionate about creating high-quality mobile applications that deliver exceptional user experiences. With over 5 years of experience in the field, I have developed a deep understanding of the Flutter framework and its capabilities. Developing high-quality mobile applications using the Flutter framework Building custom UI designs that are both functional and visually appealing Integrating APIs and backend services to create seamless user experiences Creating cross-platform apps for both Android and iOS platforms Debugging and troubleshooting issues to ensure smooth performance
 ## Projects
 --Smart Travel App  --Store Inventory Management App  --Church Service App  --Assistant Doctor Medicare app  --Smart teacher Quiz App  --Food Ordering App  --Eccommerce App  --Music App
+![Screenshot (120)](https://github.com/FKdevelopers254/FKdevelopers254/assets/65674370/1a7bbc0f-0c34-47d4-b3f7-2c859bc7be6f)
+![Screenshot (108)](https://github.com/FKdevelopers254/FKdevelopers254/assets/65674370/4f1af781-b564-4eb3-a4a6-d9461069c77f)
+![Screenshot (103)](https://github.com/FKdevelopers254/FKdevelopers254/assets/65674370/e45cce3b-a642-47f3-af6d-9e5c5780cddf)
+![Screenshot (77)](https://github.com/FKdevelopers254/FKdevelopers254/assets/65674370/4e3220a3-23cb-4834-bc7f-ecb0ced5dab8)
+![Screenshot (61)](https://github.com/FKdevelopers254/FKdevelopers254/assets/65674370/3729af2f-eb7e-40b4-a384-fcddf3ea82ae)
+
 
 
 ## QRShop
