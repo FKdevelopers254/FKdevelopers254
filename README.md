@@ -140,6 +140,14 @@ Overall, our live request app is the perfect tool for anyone looking to create a
 
     <img width="1205" alt="240537489-599f450d-ac52-49d6-b398-37fdaeaba08c" src="https://github.com/FKdevelopers254/FKdevelopers254/assets/65674370/ad54be89-2b6f-44cc-a40c-1595a75d9f37">
 
+##Car Mobile App
+Explore my Flutter-based mobile app designed for car enthusiasts and drivers seeking reliable assistance on the road. This innovative app offers a comprehensive solution for users stuck in unexpected situations by seamlessly tracking their location and connecting them with the nearest mechanics for prompt assistance.
+Key Features:
+
+Location Tracking & Mechanic Assistance: Users can share their location in emergencies, enabling the app to locate and connect them with nearby mechanics for immediate help.
+Extensive Car Database: Browse through a diverse range of cars, offering detailed insights and information for enthusiasts looking to explore various models and specifications.
+Car Seller Interface: Sellers can effortlessly input car details, manage bookings, and interact with potential buyers.
+ - [Github Repository](https://github.com/FKdevelopers254/CarAutoMobil)
 
 ## Skills
 - Flutter,Dart,Java,RESTful APIs,Git,Agile/Scrum
