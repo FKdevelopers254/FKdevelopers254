@@ -24,10 +24,13 @@ I am passionate about creating high-quality mobile applications that deliver exc
 
 
 
+
+
+
 <img src="https://github.com/FKdevelopers254/FKdevelopers254/assets/65674370/2db01571-d359-410c-b8ac-46cd9d10b4b5" alt="Screenshot (120)" height="350">
-<img src="https://github.com/FKdevelopers254/FKdevelopers254/assets/65674370/4f1af781-b564-4eb3-a4a6-d9461069c77f" alt="Screenshot (108)" height="350">
-<img src="https://github.com/FKdevelopers254/FKdevelopers254/assets/65674370/e45cce3b-a642-47f3-af6d-9e5c5780cddf" alt="Screenshot (103)" height="350">
-<img src="https://github.com/FKdevelopers254/FKdevelopers254/assets/65674370/4e3220a3-23cb-4834-bc7f-ecb0ced5dab8" alt="Screenshot (77)" height="350">
+<img src="https://github.com/FKdevelopers254/FKdevelopers254/assets/65674370/8201c610-45a1-4835-927c-4bd8471cae64" alt="Screenshot (108)" height="350">
+<img src="https://github.com/FKdevelopers254/FKdevelopers254/assets/65674370/c93e7d3e-1516-4ecc-ac69-154e009730e5" alt="Screenshot (103)" height="350">
+<img src="https://github.com/FKdevelopers254/FKdevelopers254/assets/65674370/5d8d761d-a07c-46c1-8e75-b380970a5540" alt="Screenshot (77)" height="350">
 <img src="https://github.com/FKdevelopers254/FKdevelopers254/assets/65674370/3729af2f-eb7e-40b4-a384-fcddf3ea82ae" alt="Screenshot (61)" height="350">
 
 Smart Travel,Store Inventory Management,Pocket Bible App,Assistant Doctor Medicare,Smart Teacher,Quiz App,Food Ordering,Eccommerce App,Music App
