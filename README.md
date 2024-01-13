@@ -22,7 +22,9 @@
 I am passionate about creating high-quality mobile applications that deliver exceptional user experiences. With over 5 years of experience in the field, I have developed a deep understanding of the Flutter framework and its capabilities. Developing high-quality mobile applications using the Flutter framework Building custom UI designs that are both functional and visually appealing Integrating APIs and backend services to create seamless user experiences Creating cross-platform apps for both Android and iOS platforms Debugging and troubleshooting issues to ensure smooth performance
 ## Projects
 
-<img src="https://github.com/FKdevelopers254/FKdevelopers254/assets/65674370/1a7bbc0f-0c34-47d4-b3f7-2c859bc7be6f" alt="Screenshot (120)" height="350">
+
+
+<img src="https://github.com/FKdevelopers254/FKdevelopers254/assets/65674370/2db01571-d359-410c-b8ac-46cd9d10b4b5" alt="Screenshot (120)" height="350">
 <img src="https://github.com/FKdevelopers254/FKdevelopers254/assets/65674370/4f1af781-b564-4eb3-a4a6-d9461069c77f" alt="Screenshot (108)" height="350">
 <img src="https://github.com/FKdevelopers254/FKdevelopers254/assets/65674370/e45cce3b-a642-47f3-af6d-9e5c5780cddf" alt="Screenshot (103)" height="350">
 <img src="https://github.com/FKdevelopers254/FKdevelopers254/assets/65674370/4e3220a3-23cb-4834-bc7f-ecb0ced5dab8" alt="Screenshot (77)" height="350">
