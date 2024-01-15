@@ -38,7 +38,6 @@ I am passionate about creating high-quality mobile applications that deliver exc
 <img src="https://github.com/FKdevelopers254/FKdevelopers254/assets/65674370/c1707f04-60bc-424b-a055-cdb087984ba6" alt="Crop Disease Detection" height="350">
 <img src="https://github.com/FKdevelopers254/FKdevelopers254/assets/65674370/031c7e7b-dc44-4211-8b59-5b92b6f93bf0" alt="Food APP Detailed Page" height="350">
 
-![detaileditem](https://github.com/FKdevelopers254/FKdevelopers254/assets/65674370/)
 
 
 Smart Travel,Store Inventory Management,Pocket Bible App,Assistant Doctor Medicare,Smart Teacher,Quiz App,Food Ordering,Eccommerce App,Music App
@@ -82,6 +81,17 @@ But that's not all - we also offer a way for users to earn cash by listing their
 So whether you're looking to book your dream vacation or simply explore the world around you, our travel app has everything you need to get started.
 
   - [Github Repository](https://github.com/FKdevelopers254/TravelApp)
+
+<img src="https://github.com/FKdevelopers254/QRSHOP/assets/65674370/243fd6f0-70ce-4376-aade-0c797259c89d" alt="homepage" height="200" loading="lazy" style="max-width:100%; height:auto;">
+<img src="https://github.com/FKdevelopers254/QRSHOP/assets/65674370/681a1b17-e985-42fe-afe5-03c41fa822b9" alt="hoteldetailpage" height="200" loading="lazy" style="max-width:100%; height:auto;">
+<img src="https://github.com/FKdevelopers254/QRSHOP/assets/65674370/bef30810-eba1-45b9-bd82-52fcc88a7c42" alt="car admin" height="200" loading="lazy" style="max-width:100%; height:auto;">
+<img src="https://github.com/FKdevelopers254/QRSHOP/assets/65674370/eab07d83-acab-4d18-a732-79ec9a46b1ac" alt="cars page" height="200" loading="lazy" style="max-width:100%; height:auto;">
+<img src="https://github.com/FKdevelopers254/QRSHOP/assets/65674370/e484c0f1-83fc-4bb1-bbfc-4aa3a8bb16ec" alt="hotelpage" height="200" loading="lazy" style="max-width:100%; height:auto;">
+<img src="https://github.com/FKdevelopers254/QRSHOP/assets/65674370/fed77fab-0b15-42c8-bae2-c61a9f4def97" alt="registerpage" height="200" loading="lazy" style="max-width:100%; height:auto;">
+<img src="https://github.com/FKdevelopers254/QRSHOP/assets/65674370/61d0c747-4cee-4b19-81bb-71fc58034a6e" alt="toolpage" height="200" loading="lazy" style="max-width:100%; height:auto;">
+<img src="https://github.com/FKdevelopers254/QRSHOP/assets/65674370/19822094-0a74-4a77-baf6-6ed951b0686a" alt="booking page" height="200" loading="lazy" style="max-width:100%; height:auto;">
+<img src="https://github.com/FKdevelopers254/QRSHOP/assets/65674370/1017c919-1655-42e5-b53b-24f37c94d819" alt="hotel admin" height="200" loading="lazy" style="max-width:100%; height:auto;">
+<img src="https://github.com/FKdevelopers254/QRSHOP/assets/65674370/555e2956-2e0d-4c03-be98-b8b7de918994" alt="tools page" height="200" loading="lazy" style="max-width:100%; height:auto;">
  
 
 ## Smart Teacher Quiz App
