@@ -148,7 +148,10 @@ Our app is perfect for travelers who want to communicate with locals in differen
 So whether you're looking to expand your language skills, communicate with people from different cultures, or simply learn something new, our language app has everything you need to get started.
 
   - [Github Repository](https://github.com/FKdevelopers254/LanguageCommunicationApp)
-  
+
+<img src="https://github.com/FKdevelopers254/FKdevelopers254/assets/65674370/ada62b73-6248-495c-8799-50b9c44ebb6e" alt="tools" height="150">
+
+
   
 ## Assistant Doctor Medical Care App
 Welcome to our medical app - the perfect tool for connecting patients and doctors, and ensuring that everyone has access to high-quality medical care. Our app allows patients to input their symptoms, connect with doctors, and order medical drugs that can be delivered straight to their door.
