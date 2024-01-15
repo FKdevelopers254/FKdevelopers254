@@ -110,6 +110,9 @@ Our quiz app is perfect for schools and teachers who want to create fun and enga
 So whether you're looking to learn something new, test your knowledge, or compete with others, our quiz app has everything you need to get started.
 
   - [Github Repository](https://github.com/FKdevelopers254/QUIZ-APP)
+
+
+<img width="200" alt="QUIZ APP" src="https://github.com/FKdevelopers254/QUIZ-APP/assets/65674370/0aefbaa5-021b-4c9a-8056-3188b792d75f">
  
 
 ## Food Ordering/Delivery App
