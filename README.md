@@ -168,7 +168,10 @@ So whether you're a patient looking for high-quality medical care, or a doctor l
 <img src="https://github.com/FKdevelopers254/FKdevelopers254/assets/65674370/61ac4cb9-963e-43c8-9509-ef9594086ccd" alt="tools" height="150">
 <img src="https://github.com/FKdevelopers254/FKdevelopers254/assets/65674370/c53a9bbe-099c-40c3-9bea-4b588671b88a" alt="tools" height="150">
 <img src="https://github.com/FKdevelopers254/FKdevelopers254/assets/65674370/78e9a70f-bc2b-4738-b45d-9182060f777c" alt="tools" height="150">
- 
+<img src="https://github.com/FKdevelopers254/FKdevelopers254/assets/65674370/2eace11c-93b7-493b-8016-f3df1bcaa1d2" alt="tools" height="150">
+<img src="https://github.com/FKdevelopers254/FKdevelopers254/assets/65674370/1686b85f-1de9-48ed-8fa6-61589e29a23d" alt="tools" height="150">
+
+
 
 ## Live Request App
 Introducing our live request app - the perfect tool for engaging audiences and connecting hosts with their listeners. Our app allows users to join events and request songs, while giving hosts the ability to choose which songs to play.
@@ -181,8 +184,6 @@ Overall, our live request app is the perfect tool for anyone looking to create a
 
   - [Github Repository](https://github.com/FKdevelopers254/LiveSongRequest)
 
-    <img width="1205" alt="240537489-599f450d-ac52-49d6-b398-37fdaeaba08c" src="https://github.com/FKdevelopers254/FKdevelopers254/assets/65674370/ad54be89-2b6f-44cc-a40c-1595a75d9f37">
-
 ##Car Mobile App
 Explore my Flutter-based mobile app designed for car enthusiasts and drivers seeking reliable assistance on the road. This innovative app offers a comprehensive solution for users stuck in unexpected situations by seamlessly tracking their location and connecting them with the nearest mechanics for prompt assistance.
 Key Features:
@@ -191,6 +192,21 @@ Location Tracking & Mechanic Assistance: Users can share their location in emerg
 Extensive Car Database: Browse through a diverse range of cars, offering detailed insights and information for enthusiasts looking to explore various models and specifications.
 Car Seller Interface: Sellers can effortlessly input car details, manage bookings, and interact with potential buyers.
  - [Github Repository](https://github.com/FKdevelopers254/CarAutoMobil)
+<img src="https://github.com/FKdevelopers254/FKdevelopers254/assets/65674370/4a45316f-3fec-490a-8953-a19b88c7c6cf" alt="intro page" height="150">
+<img src="https://github.com/FKdevelopers254/FKdevelopers254/assets/65674370/31760a6d-4ae7-46f0-a4be-c6d771b89f63" alt="available car" height="150">
+<img src="https://github.com/FKdevelopers254/FKdevelopers254/assets/65674370/1d8ae2bc-7cbc-40ea-b768-6171e9114edd" alt="homepage" height="150">
+<img src="https://github.com/FKdevelopers254/FKdevelopers254/assets/65674370/42cde042-cef2-4178-81af-40e9535f97a4" alt="car specification" height="150">
+<img src="https://github.com/FKdevelopers254/FKdevelopers254/assets/65674370/9961057e-00ce-402b-a7d6-4c07d4c0d034" alt="tools" height="150">
+<img src="https://github.com/FKdevelopers254/FKdevelopers254/assets/65674370/d8bf8e35-e4dd-484c-939d-5f1bcdae6b68" alt="tools" height="150">
+<img src="https://github.com/FKdevelopers254/FKdevelopers254/assets/65674370/705fbd7a-53f3-4504-af8c-7d027c4842dd" alt="tools" height="150">
+<img src="https://github.com/FKdevelopers254/FKdevelopers254/assets/65674370/92401e1c-7d33-4a63-a0d4-4df17fa453de" alt="tools" height="150">
+
+
+
+
+
+
+
 
 ## Skills
 - Flutter,Dart,Java,RESTful APIs,Git,Agile/Scrum
