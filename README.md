@@ -112,7 +112,7 @@ So whether you're looking to learn something new, test your knowledge, or compet
   - [Github Repository](https://github.com/FKdevelopers254/QUIZ-APP)
 
 
-<img width="200" alt="QUIZ APP" src="https://github.com/FKdevelopers254/QUIZ-APP/assets/65674370/0aefbaa5-021b-4c9a-8056-3188b792d75f">
+<img width="400" alt="QUIZ APP" src="https://github.com/FKdevelopers254/QUIZ-APP/assets/65674370/0aefbaa5-021b-4c9a-8056-3188b792d75f">
  
 
 ## Food Ordering/Delivery App
