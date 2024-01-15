@@ -83,8 +83,9 @@ So whether you're looking to book your dream vacation or simply explore the worl
   - [Github Repository](https://github.com/FKdevelopers254/TravelApp)
 
 <img src="https://github.com/FKdevelopers254/FKdevelopers254/assets/65674370/2db01571-d359-410c-b8ac-46cd9d10b4b5" alt="Eas Travel HomePage" height="150">
-<img src="https://github.com/FKdevelopers254/QRSHOP/assets/65674370/9252c59f-7b64-4366-aaa1-42b7f713ce64" alt="homepage" height="200" loading="lazy" style="max-width:100%; height:auto;">
-<img src="https://github.com/FKdevelopers254/QRSHOP/assets/65674370/681a1b17-e985-42fe-afe5-03c41fa822b9" alt="hoteldetailpage" height="200" loading="lazy" style="max-width:100%; height:auto;">
+<img src="https://github.com/FKdevelopers254/FKdevelopers254/assets/65674370/681a1b17-e985-42fe-afe5-03c41fa822b9" alt="Eas Travel HomePage" height="150">
+
+
 <img src="https://github.com/FKdevelopers254/QRSHOP/assets/65674370/bef30810-eba1-45b9-bd82-52fcc88a7c42" alt="car admin" height="200" loading="lazy" style="max-width:100%; height:auto;">
 <img src="https://github.com/FKdevelopers254/QRSHOP/assets/65674370/eab07d83-acab-4d18-a732-79ec9a46b1ac" alt="cars page" height="200" loading="lazy" style="max-width:100%; height:auto;">
 <img src="https://github.com/FKdevelopers254/QRSHOP/assets/65674370/e484c0f1-83fc-4bb1-bbfc-4aa3a8bb16ec" alt="hotelpage" height="200" loading="lazy" style="max-width:100%; height:auto;">
