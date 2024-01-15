@@ -134,6 +134,38 @@ So whether you're a hungry user or a busy restaurant owner, Munchies has everyth
 <img src="https://github.com/FKdevelopers254/FKdevelopers254/assets/65674370/2d2471e6-5745-41f3-b38b-13433a8a4d92" alt="tools" height="150">
 <img src="https://github.com/FKdevelopers254/FKdevelopers254/assets/65674370/49029aba-f9bd-4d26-ae6f-e9920d965369" alt="tools" height="150">
 
+## Crop Image Disease Detection
+Explore the intersection of technology and agriculture with our innovative Flutter-based Crop Disease Detection app. This powerful application leverages cutting-edge camera technology to identify and diagnose plant diseases by analyzing images of the plant leaves. Seamlessly integrating with the device's camera, the app utilizes advanced image comparison algorithms to provide accurate and swift diagnoses.
+Key Features:
+Image Analysis and Disease Diagnosis:
+Harness the power of the app's image recognition capabilities to identify and diagnose crop diseases.
+Receive instant insights into the health of plant leaves, enabling early detection and intervention.
+Camera Technology Integration:
+Utilize the device's camera to capture high-quality images of plant leaves for precise disease identification.
+Experience a user-friendly interface that simplifies the process of capturing and analyzing images.
+Weather Condition Retrieval:
+Enhance your decision-making process with real-time weather information specific to your current location.
+Leverage GPS technology to fetch accurate weather data, providing valuable insights for crop management.
+Cultivation Tips and Advice:
+Access personalized cultivation tips and advice based on the diagnosed plant diseases and prevailing weather conditions.
+Empower farmers and enthusiasts with knowledge to optimize crop growth and mitigate potential risks.
+User-Friendly Interface:
+Enjoy a sleek and intuitive design that ensures a seamless user experience.
+Navigate effortlessly through the app's features, making it accessible to both agricultural experts and enthusiasts.
+Responsive and Scalable:
+
+Developed using Flutter, the app guarantees cross-platform compatibility and responsive design.
+Seamlessly adapt to various devices, ensuring accessibility to a wide user base.
+
+ - [Github Repository](https://github.com/FKdevelopers254/Munchies)
+
+
+
+<img src="https://github.com/FKdevelopers254/FKdevelopers254/assets/65674370/2d2471e6-5745-41f3-b38b-13433a8a4d92" alt="tools" height="150">
+<img src="https://github.com/FKdevelopers254/FKdevelopers254/assets/65674370/49029aba-f9bd-4d26-ae6f-e9920d965369" alt="tools" height="150">
+
+
+
 
 ## Language Learning/Communication App
 
