@@ -161,8 +161,13 @@ Seamlessly adapt to various devices, ensuring accessibility to a wide user base.
 
 
 
-<img src="https://github.com/FKdevelopers254/FKdevelopers254/assets/65674370/2d2471e6-5745-41f3-b38b-13433a8a4d92" alt="tools" height="150">
-<img src="https://github.com/FKdevelopers254/FKdevelopers254/assets/65674370/49029aba-f9bd-4d26-ae6f-e9920d965369" alt="tools" height="150">
+
+<img src="https://github.com/FKdevelopers254/FKdevelopers254/assets/65674370/4b770b2c-1fa6-40c6-925b-ef55f7621214" alt="tools" height="150">
+<img src="https://github.com/FKdevelopers254/FKdevelopers254/assets/65674370/d89756d3-34e5-4598-a3a9-7ad69c8a49bb" alt="tools" height="150">
+<img src="https://github.com/FKdevelopers254/FKdevelopers254/assets/65674370/74b9035a-816f-4d87-a6fd-89f406f424bc" alt="tools" height="150">
+<img src="https://github.com/FKdevelopers254/FKdevelopers254/assets/65674370/9bdd86cd-8f58-44b7-94af-82a300ae1a48" alt="tools" height="150">
+
+
 
 
 
