@@ -93,7 +93,9 @@ So whether you're looking to book your dream vacation or simply explore the worl
 
 <img src="https://github.com/FKdevelopers254/FKdevelopers254/assets/65674370/61d0c747-4cee-4b19-81bb-71fc58034a6e" alt="tools" height="150">
 
+<img src="https://github.com/FKdevelopers254/FKdevelopers254/assets/65674370/875e0418-d85a-4f22-807c-e5fcb769533c" alt="tools" height="150">
 
+ 
 
 ## Smart Teacher Quiz App
 
