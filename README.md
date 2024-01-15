@@ -127,6 +127,11 @@ So whether you're a hungry user or a busy restaurant owner, Munchies has everyth
   - [Github Repository](https://github.com/FKdevelopers254/Munchies)
 
 
+
+<img src="https://github.com/FKdevelopers254/FKdevelopers254/assets/65674370/2d2471e6-5745-41f3-b38b-13433a8a4d92" alt="tools" height="150">
+<img src="https://github.com/FKdevelopers254/FKdevelopers254/assets/65674370/49029aba-f9bd-4d26-ae6f-e9920d965369" alt="tools" height="150">
+
+
 ## Language Learning/Communication App
 
 Introducing our new language app - the perfect tool for anyone looking to learn a new language or communicate with people who speak different languages! Our app allows users to easily translate from English to any other language, and includes a speech feature to help with pronunciation.
