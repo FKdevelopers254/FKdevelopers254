@@ -59,7 +59,9 @@ With QRShop, small business owners can streamline their operations, save time, a
  
 <img src="https://github.com/FKdevelopers254/QRSHOP/assets/65674370/123742f0-55d4-4e85-bab8-8c2a23edda14" alt="createqr" height="200" loading="lazy" style="max-width:100%; height:auto;">
 <img src="https://github.com/FKdevelopers254/QRSHOP/assets/65674370/9d49c9e9-c6df-431e-9bc7-1999cdc21cb7" alt="intropage" height="200" loading="lazy" style="max-width:100%; height:auto;">
-<img src="https://github.com/FKdevelopers254/QRSHOP/assets/65674370/7a5607fe-2299-43bb-b981-8ca6d01a38d3" alt="intropage" height="200" loading="lazy" style="max-width:100%; height:auto;">
+
+<img width="400" alt="QUIZ APP" src="https://github.com/FKdevelopers254/QUIZ-APP/assets/65674370/7a5607fe-2299-43bb-b981-8ca6d01a38d3">
+
 
 
 
