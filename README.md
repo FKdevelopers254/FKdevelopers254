@@ -33,11 +33,14 @@ I am passionate about creating high-quality mobile applications that deliver exc
   <img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FKDevelopers254&layout=compact&hide=VHDL,ROFF,CUDA&langs_count=6&card_width=445">
 </picture>
 
-<picture>
+<!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=FKDevelopers254&layout=compact&theme=github_dark">
   <img alt="FK Devs" src="https://github-readme-stats.vercel.app/api/wakatime?username=FKDevelopers254&layout=compact">
-</picture>
+</picture>   
+
+-->
 </center>
+
 ## Projects
 
 
