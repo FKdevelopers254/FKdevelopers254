@@ -56,7 +56,17 @@ I am passionate about creating high-quality mobile applications that deliver exc
 
 | Project Name | Screenshot/Description | Tools Used | Project Repository |
 |--------------|------------------------|------------|--------------------|
-| **ToDo App** |<img src="img/todo-app.png" alt="Contact form" width="200px" height="100px">  <br> Simple **ToDo App**, where user can key in their do's and the list is diplayed in a table. | HTML, CSS, JavaScript, Netlify `(Hosting)` | [``Live Preview``](https://t-list-app.netlify.app/) |
+| **Smart Travel App** |<img src="https://github.com/FKdevelopers254/FKdevelopers254/assets/65674370/2db01571-d359-410c-b8ac-46cd9d10b4b5" alt="Eas Travel HomePage" width="200px" height="100px">  <br> Welcome to our all-in-one travel app! With our platform, users can easily plan and book their dream vacations, all while earning rewards and exploring the great outdoors.
+
+Our app offers a seamless user experience, allowing users to quickly and easily create an account, login, and start browsing our wide selection of hotels, safari tours, and rental cars. We also offer a wishlist system, so users can save their favorite destinations and come back to them later.
+
+But that's just the beginning. We've also integrated QR codes throughout our platform, which users can scan to earn reward points. These QR codes are placed at specific destinations, cars, and hotels, so users can earn points simply by exploring the world around them.
+
+We've also integrated a map system, so users can track rare wildlife and explore the great outdoors like never before. And with our weather API, users can always stay on top of the latest weather conditions and plan their activities accordingly.
+
+But that's not all - we also offer a way for users to earn cash by listing their own hotels or cars on our platform. This not only helps users earn some extra money, but also adds to our growing selection of travel options.
+
+So whether you're looking to book your dream vacation or simply explore the world around you, our travel app has everything you need to get started. | HTML, CSS, JavaScript, Netlify `(Hosting)` | [``Live Preview``](https://t-list-app.netlify.app/) |
 | **Landing Page** |<img src="img/bird.png" alt="Landing page" width="200px" height="100px">  <br> This is a simple landing page about different species birds! | HTML & CSS | [``Live Preview``](https://nzyoka10.github.io/landing_page/index.html) |
 | **Simple Clock** |<img src="img/clock.png" alt="Landing page" width="200px" height="100px">  <br> This a simple project of showing real time using JavaScript! | HTML, CSS & JavaScript | [``Live Preview``](https://clock-digita.netlify.app/) |
 
