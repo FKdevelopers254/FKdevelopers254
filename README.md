@@ -19,8 +19,8 @@
 
 <details>
 
-<summary>Click to Expand </summary>
-### About Me
+<summary>About Me </summary>
+
 
 I am passionate about creating high-quality mobile applications that deliver exceptional user experiences. With over 5 years of experience in the field, I have developed a deep understanding of the Flutter framework and its capabilities. Developing high-quality mobile applications using the Flutter framework Building custom UI designs that are both functional and visually appealing Integrating APIs and backend services to create seamless user experiences Creating cross-platform apps for both Android and iOS platforms Debugging and troubleshooting issues to ensure smooth performance
 
@@ -49,6 +49,12 @@ I am passionate about creating high-quality mobile applications that deliver exc
 
 ## Projects
 
+
+| Project Name | Screenshot/Description | Tools Used | Project Repository |
+|--------------|------------------------|------------|--------------------|
+| **ToDo App** |<img src="img/todo-app.png" alt="Contact form" width="200px" height="100px">  <br> Simple **ToDo App**, where user can key in their do's and the list is diplayed in a table. | HTML, CSS, JavaScript, Netlify `(Hosting)` | [``Live Preview``](https://t-list-app.netlify.app/) |
+| **Landing Page** |<img src="img/bird.png" alt="Landing page" width="200px" height="100px">  <br> This is a simple landing page about different species birds! | HTML & CSS | [``Live Preview``](https://nzyoka10.github.io/landing_page/index.html) |
+| **Simple Clock** |<img src="img/clock.png" alt="Landing page" width="200px" height="100px">  <br> This a simple project of showing real time using JavaScript! | HTML, CSS & JavaScript | [``Live Preview``](https://clock-digita.netlify.app/) |
 
 
 
