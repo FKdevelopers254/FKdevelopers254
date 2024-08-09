@@ -17,10 +17,13 @@
 ![Scrum](https://img.shields.io/badge/-Scrum-5C9FED)
 ![REST API](https://img.shields.io/badge/-REST%20API-009688)
 
+<details>
 
+<summary>Click To Expand.</summary>
 ## About Me
 I am passionate about creating high-quality mobile applications that deliver exceptional user experiences. With over 5 years of experience in the field, I have developed a deep understanding of the Flutter framework and its capabilities. Developing high-quality mobile applications using the Flutter framework Building custom UI designs that are both functional and visually appealing Integrating APIs and backend services to create seamless user experiences Creating cross-platform apps for both Android and iOS platforms Debugging and troubleshooting issues to ensure smooth performance
 
+</details>
 ## Performance
 <center>
 <picture>
