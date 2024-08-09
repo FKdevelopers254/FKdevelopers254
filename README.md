@@ -27,7 +27,10 @@ I am passionate about creating high-quality mobile applications that deliver exc
 </details>
 
 
-### Performance
+<details>
+
+  <summary>Performance</summary>
+
 <center>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=FKDevelopers254&show_icons=true&theme=github_dark&count_private=true&line_height=25&hide_title=true">
@@ -46,6 +49,7 @@ I am passionate about creating high-quality mobile applications that deliver exc
 
 -->
 </center>
+</details>
 
 ## Projects
 
