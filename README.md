@@ -51,6 +51,37 @@ I am passionate about creating high-quality mobile applications that deliver exc
 </center>
 </details>
 
+<details>
+
+  <summary>Skills</summary>
+
+- Flutter,Dart,Java,RESTful APIs,Git,Agile/Scrum
+
+  </details>
+  
+ <details>
+
+  <summary>Education</summary>
+
+- Bachelor's Degree in Computer Science, University Of Nairobi, 2018-2024
+- CCNA Routing & Switching, ZETECH University, 2017-2018
+
+  </details>
+
+  <details>
+
+  <summary>Contact Information</summary>
+
+- Email: fkdevelopers254@gmail.com
+- [LinkedIn:] (https://www.linkedin.com/in/francisnzoka/)
+- [Website:] (https://secureworldhost.xyz)
+
+
+(https://github.com/FKdevelopers254/FKdevelopers254/blob/main/prototype.html)
+https://github.com/FKdevelopers254/FKdevelopers254/blob/main/prototype.html
+
+</details>
+
 ## Projects
 
 
@@ -84,37 +115,10 @@ I am passionate about creating high-quality mobile applications that deliver exc
 
 
 
-Smart Travel,Store Inventory Management,Pocket Bible App,Assistant Doctor Medicare,Smart Teacher,Quiz App,Food Ordering,Eccommerce App,Music App
-
-   
-<img src="https://github.com/FKdevelopers254/FKdevelopers254/assets/65674370/4a45316f-3fec-490a-8953-a19b88c7c6cf" alt="intro page" height="150">
-<img src="https://github.com/FKdevelopers254/FKdevelopers254/assets/65674370/31760a6d-4ae7-46f0-a4be-c6d771b89f63" alt="available car" height="150">
-<img src="https://github.com/FKdevelopers254/FKdevelopers254/assets/65674370/1d8ae2bc-7cbc-40ea-b768-6171e9114edd" alt="homepage" height="150">
-<img src="https://github.com/FKdevelopers254/FKdevelopers254/assets/65674370/42cde042-cef2-4178-81af-40e9535f97a4" alt="car specification" height="150">
-<img src="https://github.com/FKdevelopers254/FKdevelopers254/assets/65674370/9961057e-00ce-402b-a7d6-4c07d4c0d034" alt="tools" height="150">
-<img src="https://github.com/FKdevelopers254/FKdevelopers254/assets/65674370/d8bf8e35-e4dd-484c-939d-5f1bcdae6b68" alt="tools" height="150">
-<img src="https://github.com/FKdevelopers254/FKdevelopers254/assets/65674370/705fbd7a-53f3-4504-af8c-7d027c4842dd" alt="tools" height="150">
-<img src="https://github.com/FKdevelopers254/FKdevelopers254/assets/65674370/92401e1c-7d33-4a63-a0d4-4df17fa453de" alt="tools" height="150">
+ 
 
 
 
 
 
 
-
-
-## Skills
-- Flutter,Dart,Java,RESTful APIs,Git,Agile/Scrum
-
-## Education
-- Bachelor's Degree in Computer Science, University Of Nairobi, 2018-2024
-- CCNA Routing & Switching, ZETECH University, 2017-2018
-
-## Contact Information
-- Email: fkdevelopers254@gmail.com
-- [LinkedIn:] (https://www.linkedin.com/in/francisnzoka/)
-- [Website:] (https://secureworldhost.xyz)
-
-
-(https://github.com/FKdevelopers254/FKdevelopers254/blob/main/prototype.html)
-https://github.com/FKdevelopers254/FKdevelopers254/blob/main/prototype.html
