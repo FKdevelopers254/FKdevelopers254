@@ -51,13 +51,7 @@ I am passionate about creating high-quality mobile applications that deliver exc
 </center>
 </details>
 
-<details>
 
-  <summary>Skills</summary>
-
-- Flutter,Dart,Java,RESTful APIs,Git,Agile/Scrum
-
-  </details>
   
  <details>
 
