@@ -80,8 +80,8 @@ I am passionate about creating high-quality mobile applications that deliver exc
 <details>
 
 
-![Flutter](https://img.shields.io/badge/-Flutter-blue)
-  <summary>Dart/Flutter Projects</summary>
+
+  <summary>![Flutter](https://img.shields.io/badge/-Flutter-blue)  Projects</summary>
   
 
   <details>
