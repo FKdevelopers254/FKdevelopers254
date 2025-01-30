@@ -77,6 +77,10 @@ I am passionate about creating high-quality mobile applications that deliver exc
 
 ## Projects
 
+<details>
+
+  <summary>Dart/Flutter</summary>
+
   <details>
 
   <summary>Tour Agency Smart Travel App</summary>
@@ -221,6 +225,8 @@ I am passionate about creating high-quality mobile applications that deliver exc
 
 
 
+
+</details>
 
 </details>
 
