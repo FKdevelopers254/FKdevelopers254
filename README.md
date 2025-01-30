@@ -85,7 +85,7 @@ I am passionate about creating high-quality mobile applications that deliver exc
   
 | Screenshot              |  Tools Used | Project Repository |
 |-------------------------|-------------|--------------------|
-| <img src="https://github.com/FKdevelopers254/FKdevelopers254/assets/65674370/2db01571-d359-410c-b8ac-46cd9d10b4b5" alt="Eas Travel HomePage" width= "350" height="200px">  | Dart, Flutter & JavaScript, Netlify,Github,Vercel `(Hosting)` | [``Live Preview``](https://eastafricantravel.github.io) |
+| <img src="https://github.com/FKdevelopers254/FKdevelopers254/assets/65674370/2db01571-d359-410c-b8ac-46cd9d10b4b5" alt="Eas Travel HomePage" width= "350" height="200px"> <img src="https://github.com/FKdevelopers254/FKdevelopers254/assets/65674370/2db01571-d359-410c-b8ac-46cd9d10b4b5" alt="Eas Travel HomePage" width= "350" height="200px">  | Dart, Flutter & JavaScript, Netlify,Github,Vercel `(Hosting)` | [``Live Preview``](https://eastafricantravel.github.io) |
 
 
 
