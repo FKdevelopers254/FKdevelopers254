@@ -251,18 +251,18 @@
   
    ![Python](https://img.shields.io/badge/-Python-3776AB)
 
+   ## Python Programming 
+
 
    <details>
      <summary>File Organizer</summary>
-
-  - A simple Python script that allows users to organize their files by creating folders and renaming them based on custom rules.
-    *** Features ***
-    -Organize files into directories
-       -Create new folders with specified names (e.g., "Documents", "Images")
-       -Rename files within each folder using a bulk rename pattern
-       -Move files older than 30 days to an archive directory
-    -Search for specific files in the selected directories
-    -Handle duplicates by moving them back to their original location
+     
+  -Organize files into directories
+  -Create new folders with specified names (e.g., "Documents", "Images")
+  -Rename files within each folder using a bulk rename pattern
+  -Move files older than 30 days to an archive directory
+  -Search for specific files in the selected directories
+  -Handle duplicates by moving them back to their original location
 
   
     </details>
