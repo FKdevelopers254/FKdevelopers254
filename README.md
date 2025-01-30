@@ -83,9 +83,9 @@ I am passionate about creating high-quality mobile applications that deliver exc
 
 -  Welcome to our all-in-one travel app! With our platform, users can easily plan and book their dream vacations, all while earning rewards and exploring the great outdoors.Our app offers a seamless user experience, allowing users to quickly and easily create an account, login, and start browsing our wide selection of hotels, safari tours, and rental cars. We also offer a wishlist system, so users can save their favorite destinations and come back to them later
   
-| Project Name | Screenshot              | Description | Tools Used | Project Repository |
-|--------------|-------------------------|-------------|------------|--------------------|
-| **Smart Travel App** |<img src="https://github.com/FKdevelopers254/FKdevelopers254/assets/65674370/2db01571-d359-410c-b8ac-46cd9d10b4b5" alt="Eas Travel HomePage" width= "350" height="200px">   |  <br> Welcome to our all-in-one travel app! With our platform, users can easily plan and book their dream vacations, all while earning rewards and exploring the great outdoors.Our app offers a seamless user experience, allowing users to quickly and easily create an account, login, and start browsing our wide selection of hotels, safari tours, and rental cars. We also offer a wishlist system, so users can save their favorite destinations and come back to them later. | Dart, Flutter & JavaScript, Netlify,Github,Vercel `(Hosting)` | [``Live Preview``](https://eastafricantravel.github.io) |
+| Screenshot              |  Tools Used | Project Repository |
+|-------------------------|-------------|--------------------|
+| <img src="https://github.com/FKdevelopers254/FKdevelopers254/assets/65674370/2db01571-d359-410c-b8ac-46cd9d10b4b5" alt="Eas Travel HomePage" width= "350" height="200px">  | Dart, Flutter & JavaScript, Netlify,Github,Vercel `(Hosting)` | [``Live Preview``](https://eastafricantravel.github.io) |
 
 
 
