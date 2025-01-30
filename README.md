@@ -256,16 +256,16 @@
 
    <details>
      <summary>File Organizer</summary>
-     
-  -Organize files into directories
-  -Create new folders with specified names (e.g., "Documents", "Images")
-  -Rename files within each folder using a bulk rename pattern
-  -Move files older than 30 days to an archive directory
-  -Search for specific files in the selected directories
-  -Handle duplicates by moving them back to their original location
+      -Organize files into directories
+     -Create new folders with specified names (e.g., "Documents", "Images")
+     -Rename files within each folder using a bulk rename pattern
+     -Move files older than 30 days to an archive directory
+     -Search for specific files in the selected directories
+     -Handle duplicates by moving them back to their original location
 
   
-    </details>
+   
+  </details>
 
   </details>
 
