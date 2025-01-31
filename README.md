@@ -84,7 +84,8 @@
 
   <summary>Dart / Flutter Programming Projects</summary>
   
-   ![Flutter](https://img.shields.io/badge/-Flutter-blue)!  [Android](https://img.shields.io/badge/-Android-3DDC84)!  [iOS](https://img.shields.io/badge/-iOS-000000)
+   ![Dart](https://img.shields.io/badge/-Dart-blue)![Flutter](https://img.shields.io/badge/-Flutter-blue)![Android](https://img.shields.io/badge/-Android-3DDC84)![iOS](https://img.shields.io/badge/-iOS-000000)![Firebase](https://img.shields.io/badge/-Firebase-yellow
+)
 
    ## Dart / Flutter Programming 
 
