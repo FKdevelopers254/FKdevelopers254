@@ -255,18 +255,48 @@
    ## Python Programming 
 
 
-   <details>
-     <summary>File Organizer</summary>
-      -Organize files into directories
-     -Create new folders with specified names (e.g., "Documents", "Images")
-     -Rename files within each folder using a bulk rename pattern
-     -Move files older than 30 days to an archive directory
-     -Search for specific files in the selected directories
-     -Handle duplicates by moving them back to their original location
+  <details>
+  <summary>File Organizer</summary>
+  - Organize files into directories based on categories or file types
+  - Create new folders with specified names (e.g., "Documents", "Images")
+  - Rename files within each folder using a bulk rename pattern
+  - Move files older than 30 days to an archive directory for better organization
+  - Search for specific files in the selected directories
+  - Handle duplicates by moving them back to their original location or deleting them
+</details>
 
-  
-   
-  </details>
+<details>
+  <summary>File Compression Tool</summary>
+  - Compress files into zip or other archive formats for easier storage
+  - Organize files into directories and create compressed folders with specified names (e.g., "Documents", "Images")
+  - Provide bulk compression of multiple files with customized compression levels
+  - Move files older than 30 days to an archive directory
+  - Search for files in selected directories to include in the compression task
+  - Handle duplicates during compression by moving them back to their original location or excluding them
+</details>
+
+<details>
+  <summary>Automated Trading Bot</summary>
+  - Analyze financial data and make automatic buy/sell decisions
+  - Implement custom trading strategies based on market trends and indicators
+  - Create log files for each trade made and organize them in specified directories
+  - Rename files with transaction information for record-keeping
+  - Move old trade logs older than 30 days to an archive directory for future reference
+  - Search for specific trade logs or market data
+  - Handle duplicate trade data by keeping only unique transactions
+</details>
+
+<details>
+  <summary>Prediction Model: Football</summary>
+  - Organize football match data into directories based on teams, leagues, or seasons
+  - Create new folders with specific names for each season or competition
+  - Rename match result files and player statistics using a bulk rename pattern
+  - Archive old football match data or predictions older than 30 days
+  - Search for specific football matches, teams, or prediction models in the directories
+  - Handle duplicate prediction data by moving them to the original location or removing them
+</details>
+
+
 
   </details>
 
