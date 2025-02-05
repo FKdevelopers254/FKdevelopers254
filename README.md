@@ -297,6 +297,40 @@
 </details>
 
 
+<details>
+  <summary>YouTube Lecture Summarizer</summary>
+  - Extract key points from YouTube video lectures
+  - Generate concise summaries of lecture content
+  - Organize summaries by subject or topic in dedicated folders
+  - Provide keyword search functionality to find specific lectures or topics
+  - Archive old summaries and videos older than 30 days
+  - Handle duplicate lecture videos by flagging or excluding them from summaries
+</details>
+
+<details>
+  <summary>Stock Market Data Analysis (SQL + Pandas)</summary>
+  - Fetch and organize stock market data using SQL queries
+  - Analyze stock price trends, volumes, and other financial metrics using Pandas
+  - Create data visualizations to represent stock market trends
+  - Archive analysis results and visualizations into directories based on time periods
+  - Provide search functionality to find specific stock symbols or financial metrics
+  - Handle duplicate stock data by cleaning and filtering out redundant information
+</details>
+
+<details>
+  <summary>Customer Segmentation (SQL + Power BI)</summary>
+  - Use SQL to query customer data from databases
+  - Perform customer segmentation analysis based on demographics, behavior, or purchasing patterns
+  - Visualize customer segments and insights using Power BI dashboards
+  - Organize customer segmentation reports in specified folders for easy access
+  - Provide functionality to search for specific customer segments or analysis results
+  - Archive old segmentation reports and move them to an archive directory
+</details>
+
+
+
+
+
 
   </details>
 
