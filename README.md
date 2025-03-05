@@ -114,7 +114,7 @@
   
 | Screenshot              |  Tools Used | Hosting | Project Repository |
 |-------------------------|-------------|---------|--------------------|
-| <img src="https://github.com/FKdevelopers254/FKdevelopers254/assets/65674370/031c7e7b-dc44-4211-8b59-5b92b6f93bf0" alt="ordering" width= "350" height="400px">  | Dart, Flutter & JavaScript, | Netlify,Github,Vercel `(Hosting)` | [``Live Preview``](https://onlineaishop.github.io) |
+| <img src="https://github.com/FKdevelopers254/FKdevelopers254/assets/65674370/031c7e7b-dc44-4211-8b59-5b92b6f93bf0" alt="ordering" width= "200" height="400px">  | Dart, Flutter & JavaScript, | Netlify,Github,Vercel `(Hosting)` | [``Live Preview``](https://onlineaishop.github.io) |
 
 
 
@@ -130,7 +130,7 @@
   
 | Screenshot              |  Tools Used | Hosting | Project Repository |
 |-------------------------|-------------|---------|--------------------|
-| <img src="https://github.com/FKdevelopers254/FKdevelopers254/assets/65674370/5cba93a4-0baa-4456-a45d-a61c2aaf2c51" alt="Car Rental App" height="400" width="350">  | Dart, Flutter & JavaScript, | Netlify,Github,Vercel `(Hosting)` | [``Live Preview``](https://caraisale.github.io) |
+| <img src="https://github.com/FKdevelopers254/FKdevelopers254/assets/65674370/5cba93a4-0baa-4456-a45d-a61c2aaf2c51" alt="Car Rental App" height="400" width="200">  | Dart, Flutter & JavaScript, | Netlify,Github,Vercel `(Hosting)` | [``Live Preview``](https://caraisale.github.io) |
 
 
 
@@ -146,7 +146,8 @@
   
 | Screenshot              |  Tools Used | Hosting | Project Repository |
 |-------------------------|-------------|---------|--------------------|
-| <img src="https://github.com/FKdevelopers254/FKdevelopers254/assets/65674370/00042359-5b4c-4dde-bd5e-90c8ab64b747" alt="car Sale" width= "350" height="400px">  | Dart, Flutter & JavaScript, | Netlify,Github,Vercel `(Hosting)` | [``Live Preview``](https://caraisale.github.io) |
+| <img src="https://github.com/user-attachments/assets/84abd5ca-5578-42c3-bbc2-8c975efef9b5" alt="Smart Doctor" width= "200" height="400px">  | Dart, Flutter & JavaScript, | Netlify,Github,Vercel `(Hosting)` | [``Live Preview``](https://smartdoctor.github.io) |
+ 
 
 
 
@@ -162,7 +163,7 @@
   
 | Screenshot              |  Tools Used | Hosting | Project Repository |
 |-------------------------|-------------|---------|--------------------|
-| <img src="https://github.com/FKdevelopers254/FKdevelopers254/assets/65674370/5d8d761d-a07c-46c1-8e75-b380970a5540" alt="Admin Page Church App" height="400">  | Dart, Flutter & JavaScript, | Netlify,Github,Vercel `(Hosting)` | [``Live Preview``](https://caraisale.github.io) |
+| <img src="https://github.com/FKdevelopers254/FKdevelopers254/assets/65674370/5d8d761d-a07c-46c1-8e75-b380970a5540" alt="Admin Page Church App" height="400">  | Dart, Flutter & JavaScript, | Netlify,Github,Vercel `(Hosting)` | [``Live Preview``](https://churchservice.github.io) |
 
 
 
@@ -178,7 +179,7 @@
   
 | Screenshot              |  Tools Used | Hosting | Project Repository |
 |-------------------------|-------------|---------|--------------------|
-|<img src="https://github.com/FKdevelopers254/FKdevelopers254/assets/65674370/3729af2f-eb7e-40b4-a384-fcddf3ea82ae" alt="Smart Scan" height="400">  | Dart, Flutter & JavaScript, | Netlify,Github,Vercel `(Hosting)` | [``Live Preview``](https://caraisale.github.io) |
+|<img src="https://github.com/FKdevelopers254/FKdevelopers254/assets/65674370/3729af2f-eb7e-40b4-a384-fcddf3ea82ae" alt="Smart Scan" height="400">  | Dart, Flutter & JavaScript, | Netlify,Github,Vercel `(Hosting)` | [``Live Preview``](https://smartscan.github.io) |
 
 
 
@@ -195,7 +196,7 @@
   
 | Screenshot              |  Tools Used | Hosting | Project Repository |
 |-------------------------|-------------|---------|--------------------|
-| <img src="https://github.com/FKdevelopers254/FKdevelopers254/assets/65674370/00042359-5b4c-4dde-bd5e-90c8ab64b747" alt="car Sale" width= "350" height="400px">  | Dart, Flutter & JavaScript, | Netlify,Github,Vercel `(Hosting)` | [``Live Preview``](https://caraisale.github.io) |
+| <img src="https://github.com/FKdevelopers254/FKdevelopers254/assets/65674370/00042359-5b4c-4dde-bd5e-90c8ab64b747" alt="Smart Teacher" width= "350" height="400px">  | Dart, Flutter & JavaScript, | Netlify,Github,Vercel `(Hosting)` | [``Live Preview``](https://smartteacher.github.io) |
 
 
 
@@ -213,7 +214,8 @@
   
 | Screenshot              |  Tools Used | Hosting | Project Repository |
 |-------------------------|-------------|---------|--------------------|
-| <img src="https://github.com/FKdevelopers254/FKdevelopers254/assets/65674370/c1707f04-60bc-424b-a055-cdb087984ba6" alt="Crop Disease Detection" height="350">  | Dart, Flutter & JavaScript, | Netlify,Github,Vercel `(Hosting)` | [``Live Preview``](https://caraisale.github.io) |
+| <img src="https://github.com/user-attachments/assets/af2629fc-d8a1-41b5-90f0-3b90cd4f627a" alt="Crop Disease Detection" height="400" width="200">  | Dart, Flutter & JavaScript, | Netlify,Github,Vercel `(Hosting)` | [``Live Preview``](https://plantdoctor.github.io) |
+ 
 
 
 
