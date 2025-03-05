@@ -163,8 +163,9 @@
   
 | Screenshot              |  Tools Used | Hosting | Project Repository |
 |-------------------------|-------------|---------|--------------------|
-| <img src="https://github.com/FKdevelopers254/FKdevelopers254/assets/65674370/5d8d761d-a07c-46c1-8e75-b380970a5540" alt="Admin Page Church App" height="400">  | Dart, Flutter & JavaScript, | Netlify,Github,Vercel `(Hosting)` | [``Live Preview``](https://churchservice.github.io) |
+| <img src="https://github.com/user-attachments/assets/5762acfd-97d7-45de-8974-bf87796a911e" alt="Admin Page Church App" height="400">  | Dart, Flutter & JavaScript, | Netlify,Github,Vercel `(Hosting)` | [``Live Preview``](https://churchservice.github.io) |
 
+ 
 
 
 
@@ -179,7 +180,7 @@
   
 | Screenshot              |  Tools Used | Hosting | Project Repository |
 |-------------------------|-------------|---------|--------------------|
-|<img src="https://github.com/FKdevelopers254/FKdevelopers254/assets/65674370/3729af2f-eb7e-40b4-a384-fcddf3ea82ae" alt="Smart Scan" height="400">  | Dart, Flutter & JavaScript, | Netlify,Github,Vercel `(Hosting)` | [``Live Preview``](https://smartscan.github.io) |
+|<img src="https://github.com/FKdevelopers254/FKdevelopers254/assets/65674370/5d8d761d-a07c-46c1-8e75-b380970a5540" alt="Smart Scan" height="400" width="200">  | Dart, Flutter & JavaScript, | Netlify,Github,Vercel `(Hosting)` | [``Live Preview``](https://smartscan.github.io) |
 
 
 
