@@ -360,6 +360,16 @@
 <img src="https://github.com/FKdevelopers254/FKdevelopers254/assets/65674370/031c7e7b-dc44-4211-8b59-5b92b6f93bf0" alt="Food APP Detailed Page" height="350">
 
 
+<img src="https://github.com/user-attachments/assets/294bb3d8-59af-4515-965c-b65376e94eb3" alt="Food APP Detailed Page" height="350">
+<img src="https://github.com/user-attachments/assets/aad8d1bb-72ce-4f88-a13b-c8efd363d6f4" alt="Food APP Detailed Page" height="350">
+<img src="https://github.com/user-attachments/assets/4a734bc9-8a81-4a4d-a27d-9b73cbdb5aa6" alt="Food APP Detailed Page" height="350">
+ 
+ <img src="https://github.com/user-attachments/assets/b4a89f43-ca2d-4445-9774-f38b6df590ca" alt="Food APP Detailed Page" height="350">
+<img src="https://github.com/user-attachments/assets/f4facb5c-00c8-4047-9b5d-78a5cccd2d71" alt="Food APP Detailed Page" height="350">
+<img src="https://github.com/user-attachments/assets/826009f1-6647-4511-a09c-1ea340ba833f" alt="Food APP Detailed Page" height="350">
+<img src="https://github.com/user-attachments/assets/25f5b224-8fba-4bfe-b4bf-b80038c5450e" alt="Food APP Detailed Page" height="350">
+ 
+ 
 
  
 
