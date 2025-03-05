@@ -130,7 +130,7 @@
   
 | Screenshot              |  Tools Used | Hosting | Project Repository |
 |-------------------------|-------------|---------|--------------------|
-| <img src="https://github.com/FKdevelopers254/FKdevelopers254/assets/65674370/5cba93a4-0baa-4456-a45d-a61c2aaf2c51" alt="Car Rental App" height="450" width="300">  | Dart, Flutter & JavaScript, | Netlify,Github,Vercel `(Hosting)` | [``Live Preview``](https://caraisale.github.io) |
+| <img src="https://github.com/FKdevelopers254/FKdevelopers254/assets/65674370/5cba93a4-0baa-4456-a45d-a61c2aaf2c51" alt="Car Rental App" height="400" width="350">  | Dart, Flutter & JavaScript, | Netlify,Github,Vercel `(Hosting)` | [``Live Preview``](https://caraisale.github.io) |
 
 
 
@@ -263,7 +263,14 @@
   - Move files older than 30 days to an archive directory for better organization
   - Search for specific files in the selected directories
   - Handle duplicates by moving them back to their original location or deleting them
+
+  | Screenshot              |  Tools Used | Hosting | Project Repository |
+|-------------------------|-------------|---------|--------------------|
+| <img src="https://github.com/user-attachments/assets/243ecbdc-f79d-47d8-ac33-d2e64bf5e4ea" alt="File Organizer" height="350">  | Dart, Flutter & JavaScript, | Netlify,Github,Vercel `(Hosting)` | [``Live Preview``](https://caraisale.github.io) |
+
+    
 </details>
+ 
 
 <details>
   <summary>File Compression Tool</summary>
