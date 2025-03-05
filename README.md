@@ -22,7 +22,7 @@
 <summary>About Me </summary>
 
 
-- I am passionate about creating high-quality mobile applications that deliver exceptional user experiences. With over 5 years of experience in the field, I have developed a deep understanding of the Flutter framework and its capabilities. Developing high-quality mobile applications using the Flutter framework Building custom UI designs that are both functional and visually appealing Integrating APIs and backend services to create seamless user experiences Creating cross-platform apps for both Android and iOS platforms Debugging and troubleshooting issues to ensure smooth performance
+- I am passionate about creating high-quality mobile applications that deliver exceptional user experiences. With over 7 years of experience in the field, I have developed a deep understanding of the Flutter framework and its capabilities. Developing high-quality mobile applications using the Flutter framework Building custom UI designs that are both functional and visually appealing Integrating APIs and backend services to create seamless user experiences Creating cross-platform apps for both Android and iOS platforms Debugging and troubleshooting issues to ensure smooth performance
 
 </details>
 
@@ -130,7 +130,7 @@
   
 | Screenshot              |  Tools Used | Hosting | Project Repository |
 |-------------------------|-------------|---------|--------------------|
-| <img src="https://github.com/FKdevelopers254/FKdevelopers254/assets/65674370/00042359-5b4c-4dde-bd5e-90c8ab64b747" alt="car Sale" width= "350" height="400px">  | Dart, Flutter & JavaScript, | Netlify,Github,Vercel `(Hosting)` | [``Live Preview``](https://caraisale.github.io) |
+| <img src="https://github.com/FKdevelopers254/FKdevelopers254/assets/65674370/5cba93a4-0baa-4456-a45d-a61c2aaf2c51" alt="Car Rental App" height="450" width="300">  | Dart, Flutter & JavaScript, | Netlify,Github,Vercel `(Hosting)` | [``Live Preview``](https://caraisale.github.io) |
 
 
 
@@ -344,7 +344,7 @@
 <img src="https://github.com/FKdevelopers254/FKdevelopers254/assets/65674370/5d8d761d-a07c-46c1-8e75-b380970a5540" alt="Admin Page Church App" height="350">
 <img src="https://github.com/FKdevelopers254/FKdevelopers254/assets/65674370/3729af2f-eb7e-40b4-a384-fcddf3ea82ae" alt="Smart Scan" height="350">
 <img src="https://github.com/FKdevelopers254/FKdevelopers254/assets/65674370/a48fc1fd-1b42-4422-b995-4901b68dc7c1" alt="Tour Agency App HomePage" height="350">
-<img src="https://github.com/FKdevelopers254/FKdevelopers254/assets/65674370/5cba93a4-0baa-4456-a45d-a61c2aaf2c51" alt="Smart Medical Monitor App" height="350">
+<img src="https://github.com/FKdevelopers254/FKdevelopers254/assets/65674370/5cba93a4-0baa-4456-a45d-a61c2aaf2c51" alt="Car Rental" height="350">
 <img src="https://github.com/FKdevelopers254/FKdevelopers254/assets/65674370/00042359-5b4c-4dde-bd5e-90c8ab64b747" alt="Car App HomePage" height="350">
 <img src="https://github.com/FKdevelopers254/FKdevelopers254/assets/65674370/c1707f04-60bc-424b-a055-cdb087984ba6" alt="Crop Disease Detection" height="350">
 <img src="https://github.com/FKdevelopers254/FKdevelopers254/assets/65674370/031c7e7b-dc44-4211-8b59-5b92b6f93bf0" alt="Food APP Detailed Page" height="350">
