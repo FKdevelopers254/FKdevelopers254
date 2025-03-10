@@ -269,7 +269,7 @@
 
   | Screenshot              |  Tools Used | Hosting | Project Repository |
 |-------------------------|-------------|---------|--------------------|
-| <img src="https://github.com/user-attachments/assets/243ecbdc-f79d-47d8-ac33-d2e64bf5e4ea" alt="File Organizer" height="350">  | Dart, Flutter & JavaScript, | Python,Selenium `(Hosting)` | [``Live Preview``](https://caraisale.github.io) |
+| <img src="https://github.com/user-attachments/assets/243ecbdc-f79d-47d8-ac33-d2e64bf5e4ea" alt="File Organizer" height="350">  | Dart, Flutter & JavaScript, | Python,Selenium `(Hosting)` | [``Live Preview``](https://github.com/FKdevelopers254/File-Organizer) |
 
     
 </details>
